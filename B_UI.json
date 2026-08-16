@@ -1,0 +1,13 @@
+{
+  "id": "blueprint_ui",
+  "name": "Blueprint UI",
+  "display_name": "Blueprint UI",
+  "author": ["Cristiandis"],
+  "description": "A JSX-like layer over Balatro's UIElement/UIBox system.",
+  "prefix": "bpui",
+  "main_file": "main.lua",
+  "version": "1.0.0",
+  "priority": -100,
+  "dependencies": [],
+  "icon_path": "modicon.png"
+}
